@@ -12,3 +12,6 @@ For example:
 Enable Arachne walls if possible, and adjust minimum wall width to avoid gaps in the central area:
 
 <img width="1235" height="591" alt="image" src="https://github.com/user-attachments/assets/20e5a5a7-c65b-4a53-8973-534e9d867d48" />
+
+Enable thick bridges and set bridge flow to 1.1 (110%). "Inner/Outer/Inner" walls order is recommended.
+
