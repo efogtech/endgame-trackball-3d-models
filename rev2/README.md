@@ -1,8 +1,6 @@
-### WORK IN PROGRESS
-
 #### Printing
 
-Please note that this revision must be printed either with 0.12 mm layer height, or with adaptive layers enabled (recommended). 
+Please note that this revision must be printed either with low layer height, or with adaptive layers enabled (recommended). 
 What you're looking to achieve is that the last layer of the contact points for the side buttons ends at ~3.70 mm (±0.02 mm).
 For example:
 
